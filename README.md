@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Hi, I'm Akshat Raj
 
-<!--
-**curiumakshat/curiumakshat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🎓 Computer Science Student • 💻 Backend & Automation • 🚀 API-Driven Projects
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+- Passionate about building **real-world backend systems**
+- Strong interest in **automation, APIs, and cloud-based workflows**
+- Actively learning and shipping projects
+
+---
+
+### 🔧 Tech Stack
+- **Languages:** JavaScript (Node.js)
+- **Tools:** Git, GitHub, Webhooks
+- **Cloud:** Google Cloud, Firebase
+
+---
+
+### 🌐 Connect with Me
+- 🔗 **GitHub:** https://github.com/curiumakshat
+- 💼 **LinkedIn:** https://www.linkedin.com/in/akshat-raj-1266b6377
+- ✍️ **Blog:** https://curiumblogs.netlify.app/
+
+---
+
+### 📊 GitHub Stats
+![Akshat's GitHub stats](https://github-readme-stats.vercel.app/api?username=curiumakshat&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=curiumakshat&layout=compact&theme=dark)
+
+---
+
+### 🛠 Languages & Tools
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+</p>
